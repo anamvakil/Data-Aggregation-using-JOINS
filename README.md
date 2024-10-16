@@ -1,6 +1,6 @@
 # Data Aggregation using Joins and Subqueries
 
-The primary objectives of this post are to summarize the use of JOINS in SQL, the assert importance of aliases and the showcase use of Subqueries. To do that I have imported the dataset from BIGQUERY marketplace named ***International Education***. The tables I have used in this dataset are ***international education*** and ***country summary***. Let us start by looking into the schema of both tables to see which column can be used to combine both tables. 
+The primary objectives of this post are to summarize the use of JOINS in SQL, assert the importance of aliases and showcase the use of Subqueries. To do that I have imported the dataset from BIGQUERY marketplace named ***International Education***. The tables I have used in this dataset are ***international education*** and ***country summary***. Let us start by looking into the schema of both tables to see which column can be used to combine both tables. 
 
 ## Use of Joins and Aliases
 
